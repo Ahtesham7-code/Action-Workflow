@@ -10,4 +10,4 @@ on:
 
         steps:
           -name: Greetings
-            run: echo "Hello Work Done"
+           run: echo "Hello Work Done"
